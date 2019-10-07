@@ -1,3 +1,6 @@
+#
+## -- This script is used as input for script parse-xml.py, which processes the contents of a VPG export XML file
+#
 S001 = "{http://schemas.datacontract.org/2004/07/Zerto.Zvm.Common.ImportExport}ExportedSettings"
 S002 = "{http://schemas.datacontract.org/2004/07/Zerto.Zvm.Common.ImportExport}Sites"
 S003 = "{http://schemas.microsoft.com/2003/10/Serialization/Arrays}KeyValueOfSiteIdentifierArrayOfExportedProtectionGroupjKaCIziX"
